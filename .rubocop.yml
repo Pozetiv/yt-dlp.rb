@@ -1,0 +1,11 @@
+# Metrics/AbcSize:
+#   Max: 22
+
+Metrics/MethodLength:
+  Max: 14
+
+Style/ModuleFunction:
+  Enabled: false
+
+Style/FileName:
+  Enabled: false
